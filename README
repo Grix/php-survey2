@@ -1,0 +1,28 @@
+This is a simple survey engine using PHP and MySQL. You can create surveys, and results will be stored in a database and the results can be viewed afterwards.
+ 
+This is made mostly for fun. Do whatever you'd like with it. Don't be surprised if you find really shitty code, I barely know PHP/MySQL.
+
+
+
+INSTALLATION:
+
+Extract to web server. 
+Configure your mysql server (not included).
+Configure include/settings.php. 
+Also configure include/filenames.php if you do any changes to filenames or directories. 
+Run install.php.
+
+
+
+CHANGELOG:
+
+Version 0.2 - 13.06.13
+
+Added captcha, a few tweaks and bug fixes. Still far from finished.
+
+
+Version: 0.1
+
+It works, but features are lacking and the code is messy. Not finished.
+
+
